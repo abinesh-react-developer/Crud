@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+.text-activegreen {
+    color: #027600;
+}
+
+.text-activegreen.animation::before {
+    background: #027600;
+}
